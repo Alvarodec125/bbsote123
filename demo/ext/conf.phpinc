@@ -1,0 +1,5 @@
+<?php
+$db_user='root';
+$db_pass='alvaro2002';
+$db_name='evanmat';
+?>
